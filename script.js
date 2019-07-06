@@ -10,7 +10,7 @@ const MASTER_MAP = [
         "groupName": "Trends",
         "items":[
             {"name": "USA", "shortcutKey": "1", "url": "https://trends.google.com/trends/trendingsearches/daily?geo=US"},
-            {"name": "UK", "shortcutKey": "2", "url": "https://trends.google.com/trends/trendingsearches/daily?geo=UK"},
+            {"name": "UK", "shortcutKey": "2", "url": "https://trends.google.com/trends/trendingsearches/daily?geo=GB"},
             {"name": "India", "shortcutKey": "3", "url": "https://trends.google.com/trends/trendingsearches/daily?geo=IN"}
         ]
     },
@@ -19,6 +19,7 @@ const MASTER_MAP = [
         "items":[
             {"name": "Reddit", "shortcutKey": "r", "url": "https://www.reddit.com/r/Android+answers+AskNetsec+AskTechnology+battlestations+BollyBlindsNGossip+bollywood+CasualUK+compsci+cscareerquestions+cscareerquestionsEU+Damnthatsinteresting+explainlikeimfive+geek+glasgow+Goa+GooglePixel+googleplaydeals+IAmA+IllegalLifeProTips+ImmigrationCanada+india+IndiaSpeaks+InternetIsBeautiful+java+LifeProTips+MadeMeSmile+movies+mumbai+netsec+OutOfTheLoop+pics+programming+rasberrypi+raspberry_pi+selfhosted+startpages+tabled+technology+todayilearned"},
             {"name": "Hacker News", "shortcutKey": "h", "url": "https://news.ycombinator.com"},
+            {"name": "KickStarter", "shortcutKey": "k", "url": "https://www.kickstarter.com/discover/advanced?sort=most_funded"},
             {"name": "Product Hunt", "shortcutKey": "t", "url": "https://www.producthunt.com"},
             {"name": "Pocket", "shortcutKey": "p", "url": "https://getpocket.com/users/technoholic/feed/all"}
         ]
