@@ -17,7 +17,7 @@ const MASTER_MAP = [
     {
         "groupName": "Read",
         "items":[
-            {"name": "Reddit", "shortcutKey": "r", "url": "https://www.reddit.com/r/Android+answers+AskNetsec+AskTechnology+battlestations+BollyBlindsNGossip+bollywood+CasualUK+compsci+cscareerquestions+cscareerquestionsEU+Damnthatsinteresting+explainlikeimfive+geek+glasgow+Goa+GooglePixel+googleplaydeals+IAmA+IllegalLifeProTips+ImmigrationCanada+india+IndiaSpeaks+InternetIsBeautiful+java+LifeProTips+MadeMeSmile+movies+mumbai+netsec+OutOfTheLoop+pics+programming+rasberrypi+raspberry_pi+selfhosted+startpages+tabled+technology+todayilearned"},
+            {"name": "Reddit", "shortcutKey": "r", "url": "https://www.reddit.com/r/Android+answers+AskNetsec+AskTechnology+battlestations+compsci+cscareerquestions+cscareerquestionsEU+Damnthatsinteresting+explainlikeimfive+geek+glasgow+Goa+GooglePixel+googleplaydeals+IAmA+india+IndiaSpeaks+InternetIsBeautiful+java+LifeProTips+MadeMeSmile+movies+mumbai+netsec+OutOfTheLoop+pics+programming+rasberrypi+raspberry_pi+selfhosted+startpages+tabled+technology+todayilearned"},
             {"name": "Hacker News", "shortcutKey": "h", "url": "https://news.ycombinator.com"},
             {"name": "KickStarter", "shortcutKey": "k", "url": "https://www.kickstarter.com/discover/advanced?sort=most_funded"},
             {"name": "Product Hunt", "shortcutKey": "t", "url": "https://www.producthunt.com"},
